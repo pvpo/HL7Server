@@ -1,0 +1,14 @@
+/home/soulslayer/Dev/Workspace/Visual Studio/HL7Server/bin/Debug/netcoreapp2.1/HL7Server.deps.json
+/home/soulslayer/Dev/Workspace/Visual Studio/HL7Server/bin/Debug/netcoreapp2.1/HL7Server.runtimeconfig.json
+/home/soulslayer/Dev/Workspace/Visual Studio/HL7Server/bin/Debug/netcoreapp2.1/HL7Server.runtimeconfig.dev.json
+/home/soulslayer/Dev/Workspace/Visual Studio/HL7Server/bin/Debug/netcoreapp2.1/HL7Server.dll
+/home/soulslayer/Dev/Workspace/Visual Studio/HL7Server/bin/Debug/netcoreapp2.1/HL7Server.pdb
+/home/soulslayer/Dev/Workspace/Visual Studio/HL7Server/obj/Debug/netcoreapp2.1/HL7Server.csprojAssemblyReference.cache
+/home/soulslayer/Dev/Workspace/Visual Studio/HL7Server/obj/Debug/netcoreapp2.1/HL7Server.csproj.CoreCompileInputs.cache
+/home/soulslayer/Dev/Workspace/Visual Studio/HL7Server/obj/Debug/netcoreapp2.1/HL7Server.RazorAssemblyInfo.cache
+/home/soulslayer/Dev/Workspace/Visual Studio/HL7Server/obj/Debug/netcoreapp2.1/HL7Server.RazorAssemblyInfo.cs
+/home/soulslayer/Dev/Workspace/Visual Studio/HL7Server/obj/Debug/netcoreapp2.1/HL7Server.AssemblyInfoInputs.cache
+/home/soulslayer/Dev/Workspace/Visual Studio/HL7Server/obj/Debug/netcoreapp2.1/HL7Server.AssemblyInfo.cs
+/home/soulslayer/Dev/Workspace/Visual Studio/HL7Server/obj/Debug/netcoreapp2.1/HL7Server.RazorTargetAssemblyInfo.cache
+/home/soulslayer/Dev/Workspace/Visual Studio/HL7Server/obj/Debug/netcoreapp2.1/HL7Server.dll
+/home/soulslayer/Dev/Workspace/Visual Studio/HL7Server/obj/Debug/netcoreapp2.1/HL7Server.pdb
